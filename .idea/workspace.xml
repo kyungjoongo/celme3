@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/grails_pjt/building-a-react-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/grails_pjt/helloworld" value="PREVIEW" />
+        <entry key="$USER_HOME$/grails_pjt/myapp" value="PREVIEW" />
+        <entry key="$USER_HOME$/grails_pjt/react" value="PREVIEW" />
+        <entry key="$USER_HOME$/react-native-youtube-extractor/android" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="609" />
+    <option name="y" value="192" />
+    <option name="width" value="1885" />
+    <option name="height" value="1065" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
