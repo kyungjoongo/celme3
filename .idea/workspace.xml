@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e3ddddd-64a6-4d75-b7b8-8699c079d73b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/celme1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -51,7 +53,9 @@
     <option name="width" value="1885" />
     <option name="height" value="1065" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -63,6 +67,11 @@
             <path>
               <item name="celme2" type="b2602c69:ProjectViewProjectNode" />
               <item name="celme2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="celme2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="celme2" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="celme2" type="b2602c69:ProjectViewProjectNode" />
@@ -82,10 +91,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,12 +135,12 @@
       <option name="presentableId" value="Default" />
       <updated>1573860871323</updated>
       <workItem from="1573860872552" duration="219000" />
-      <workItem from="1573861117336" duration="394000" />
+      <workItem from="1573861117336" duration="688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="613000" />
+    <option name="totallyTimeSpent" value="907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="609" y="192" width="1885" height="1065" extended-state="0" />
@@ -151,7 +166,7 @@
       <window_info anchor="bottom" id="RNConsole" order="10" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.63473684" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.29473683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -179,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="255">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
